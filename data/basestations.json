@@ -1,0 +1,712 @@
+{
+    "basestations": [
+    {
+    "town": "Conrad MT",
+    "desc": "Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total (27.5-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2019-08-15<br><a href=\"https://fcc.report/IBFS/SES-LIC-20190816-01062\">https://fcc.report/IBFS/SES-LIC-20190816-01062</a>",
+    "lat": 48.203306,
+    "lng": -111.945278,
+    "cc": "US"
+    },
+    {
+    "town": "Loring ME",
+    "desc": "Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total (27.5-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2019-08-15<br><a href=\"https://fcc.report/IBFS/SES-LIC-20190816-01063\">https://fcc.report/IBFS/SES-LIC-20190816-01063</a>",
+    "lat": 46.914917,
+    "lng": -67.919528,
+    "cc": "US"
+    },
+    {
+    "town": "Redmond WA",
+    "desc": "Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 1.25 GHz total (28.35-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2019-08-26<br><a href=\"https://fcc.report/IBFS/SES-LIC-20190827-01110\">https://fcc.report/IBFS/SES-LIC-20190827-01110</a>",
+    "lat": 47.694194,
+    "lng": -122.032139,
+    "cc": "US"
+    },
+    {
+    "town": "Greenville PA",
+    "desc": "Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 1.25 GHz total (28.35-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2019-09-05<br><a href=\"https://fcc.report/IBFS/SES-LIC-20190906-01170\">https://fcc.report/IBFS/SES-LIC-20190906-01170</a>",
+    "lat": 41.433556,
+    "lng": -80.333222,
+    "cc": "US"
+    },
+    {
+    "town": "Merrillan WI",
+    "desc": "<img src=\"https://doc-0s-78-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/k6hlaer28g4uniadi872auqhd4/1637796600000/xJLYE5kRT4Z8xxy6hUeYp97cJJ0CBjRF/*/6AIsG_varAeml7gp7KpN6zdY3SW8NsclrhILI9FES0H_yWGJAcy5wmvcaUZPmoE3Ct58e6XkQq_aJoS_6vNeoc-J3RH645JXy-OS7UMx4T8PpkLLUx7jf7DZy-YaBeT4bh6V8NUIilWEwN3GxUJcIZnu4mJYHwenuH6bgpW2ydO3Mm4lpNoUhexI0yrp5_Fg0gqswXcg?fife\" height=\"200\" width=\"auto\" /><br><br>Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 1.25 GHz total (28.35-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2019-09-05<br><a href=\"https://fcc.report/IBFS/SES-LIC-20190906-01171\">https://fcc.report/IBFS/SES-LIC-20190906-01171</a><br><br>Photos: <a href=\"https://imgur.com/a/ygxncIO\">https://imgur.com/a/ygxncIO</a><br><br>Photos: <a href=\"https://www.reddit.com/r/SpaceXLounge/comments/gkkm9c/starlink_base_station_photos_from_the_location_of/\">https://www.reddit.com/r/SpaceXLounge/comments/gkkm9c/starlink_base_station_photos_from_the_location_of/</a>",
+    "lat": 44.406333,
+    "lng": -90.814278,
+    "cc": "US"
+    },
+    {
+    "town": "Kalama WA",
+    "desc": "<img src=\"https://doc-0g-78-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/18pudv61ijcdl5tbpvp3394dm8/1637796600000/xJLYE5kRT4Z8xxy6hUeYp97cJJ0CBjRF/*/6AIsG_vb0xNpuzZicMA7qIvTfsOE8fhS4bCS_gWLBjv7nheJD_LEvfUiTPjO1UNuaxbTSRymgdwLCaFYaHmHIfuZ7fzrDfb01RmQxL2nFpL1QkKuSPG9nsW8vHQvyKB65_vJoV4wwHQsBrtKJnyoiznAFOtqbXF5VwvjAGfCFcNrauWDcyH6vXgfYiLK7hK5U-_4aXLqG?fife\" height=\"200\" width=\"auto\" /><br><br>Antenna count: 8 <br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total (27.5-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2020-02-06<br><a href=\"https://fcc.report/IBFS/SES-LIC-20200210-00148\">https://fcc.report/IBFS/SES-LIC-20200210-00148</a><br><br>Photos: <a href=\"https://www.reddit.com/r/Starlink/comments/k6hd4a/photos_of_the_kalama_washington_downlink_station/\">https://www.reddit.com/r/Starlink/comments/k6hd4a/photos_of_the_kalama_washington_downlink_station/</a>",
+    "lat": 46.0389722,
+    "lng": -122.8082222,
+    "cc": "US"
+    },
+    {
+    "town": "Hawthorne CA",
+    "desc": "Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total (27.5-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2020-02-06<br><a href=\"https://fcc.report/IBFS/SES-LIC-20200210-00150\">https://fcc.report/IBFS/SES-LIC-20200210-00150</a>",
+    "lat": 33.9175,
+    "lng": -118.328111,
+    "cc": "US"
+    },
+    {
+    "town": "Arbuckle CA",
+    "desc": "Antenna count: 8 <br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total (27.5-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2020-03-23<br><a href=\"https://fcc.report/IBFS/SES-LIC-20200327-00325\">https://fcc.report/IBFS/SES-LIC-20200327-00325</a>",
+    "lat": 39.057,
+    "lng": -122.06,
+    "cc": "US"
+    },
+    {
+    "town": "Beekmantown NY",
+    "desc": "Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total (27.5-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2020-03-24<br><a href=\"https://fcc.report/IBFS/SES-LIC-20200327-00326\">https://fcc.report/IBFS/SES-LIC-20200327-00326</a>",
+    "lat": 44.789972,
+    "lng": -73.48,
+    "cc": "US"
+    },
+    {
+    "town": "Charleston OR",
+    "desc": "Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total (27.5-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2020-03-31<br><a href=\"https://fcc.report/IBFS/SES-LIC-20200402-00365\">https://fcc.report/IBFS/SES-LIC-20200402-00365</a>",
+    "lat": 43.248417,
+    "lng": -124.381194,
+    "cc": "US"
+    },
+    {
+    "town": "Panaca NV",
+    "desc": "Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total (27.5-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2020-03-31<br><a href=\"https://fcc.report/IBFS/SES-LIC-20200402-00367\">https://fcc.report/IBFS/SES-LIC-20200402-00367</a>",
+    "lat": 37.783639,
+    "lng": -114.692694,
+    "cc": "US"
+    },
+    {
+    "town": "Boca Chica TX",
+    "desc": "<img src=\"https://doc-0s-78-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/n4kkpmbutv7nptsrstbnmhgdks/1637796600000/xJLYE5kRT4Z8xxy6hUeYp97cJJ0CBjRF/*/6AIsG_vYQ3KERaUygFgeYJc3VIJhbm4HcYYOOWrsjjDga9Tnt4R_l8YMU--X25d7T6oks9ufRixNYQDLqXgkgQbXDfE7CVj1nowx-T5TNKWKEDRu_P7a7e7ik5AM79YfrTX1OTxNdDPYJ8COggYaPmm-U7kN0GEr_PUAz49GsrRQvo6Qlyfos03eYIwzdo-2hVubQ4l4y?fife\" height=\"200\" width=\"auto\" /><br><br>Uplink: 2.1 GHz total (27.5-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2020-04-06<br><a href=\"https://fcc.report/IBFS/SES-LIC-20200406-00375\">https://fcc.report/IBFS/SES-LIC-20200406-00375</a><br><br>Photos: <a href=\"https://forum.nasaspaceflight.com/index.php?topic=48297.msg2070513#msg2070513\">https://forum.nasaspaceflight.com/index.php?topic=48297.msg2070513#msg2070513</a>",
+    "lat": 25.990694,
+    "lng": -97.18275,
+    "cc": "US"
+    },
+    {
+    "town": "McGregor TX",
+    "desc": "Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 1.6 GHz total (27.5-29.1)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2020-04-06<br><a href=\"https://fcc.report/IBFS/SES-LIC-20200406-00374\">https://fcc.report/IBFS/SES-LIC-20200406-00374</a>",
+    "lat": 31.404917,
+    "lng": -97.438139,
+    "cc": "US"
+    },
+    {
+    "town": "Litchfield CT",
+    "desc": "Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total (27.5-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2020-04-09<br><a href=\"https://fcc.report/IBFS/SES-LIC-20200410-00399\">https://fcc.report/IBFS/SES-LIC-20200410-00399</a><br><br><a href=\"https://fcc.report/IBFS/SES-STA-20210119-00138\">https://fcc.report/IBFS/SES-STA-20210119-00138</a><br><br>Objected by OneWeb: <a href=\"https://licensing.fcc.gov/cgi-bin/ws.exe/prod/ib/forms/reports/related_filing.hts?f_key=-443251&f_number=SESLIC2020041000399\">https://licensing.fcc.gov/cgi-bin/ws.exe/prod/ib/forms/reports/related_filing.hts?f_key=-443251&f_number=SESLIC2020041000399</a>",
+    "lat": 41.545028,
+    "lng": -73.354028,
+    "cc": "US"
+    },
+    {
+    "town": "Warren MO",
+    "desc": "Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total (27.5-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2020-04-09<br><a href=\"https://fcc.report/IBFS/SES-LIC-20200410-00400\">https://fcc.report/IBFS/SES-LIC-20200410-00400</a><br><br>Photos: <a href=\"https://www.reddit.com/r/Starlink/comments/nz79au/starlink_ground_station_warren_county_missouri/\">https://www.reddit.com/r/Starlink/comments/nz79au/starlink_ground_station_warren_county_missouri/</a>",
+    "lat": 38.635167,
+    "lng": -91.116028,
+    "cc": "US"
+    },
+    {
+    "town": "Nemaha NE",
+    "desc": "Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total (27.5-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2020-04-17<br><a href=\"https://fcc.report/IBFS/SES-LIC-20200417-00422\">https://fcc.report/IBFS/SES-LIC-20200417-00422</a>",
+    "lat": 40.333667,
+    "lng": -95.815278,
+    "cc": "US"
+    },
+    {
+    "town": "Manistique",
+    "desc": "<img src=\"https://doc-0g-78-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/76l2cbkfqjforat7v8lckvppac/1637796600000/xJLYE5kRT4Z8xxy6hUeYp97cJJ0CBjRF/*/6AIsG_vZjMS4gTL_KrpaXxYEfNjXSLSe9i0SQACIwvZgyC1QHBmiHZEmjPJGcX7zk_F6jY9Up9xzG-YOeCkgbCLcgErcTnR5xCO6oCpp5fZAwCJkGimlUHOr0f5SGDW11k2Y5MlQC--0jIX_3FZ81aM94DGikC7De9hzUYhwJI63JkC_iI79eT3GrkopyqmSrPADrwEXy?fife\" height=\"200\" width=\"auto\" /><br><br>Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total (27.5-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2020-04-21<br><a href=\"https://fcc.report/IBFS/SES-LIC-20200422-00443\">https://fcc.report/IBFS/SES-LIC-20200422-00443</a><br><br>Photos: <a href=\"https://imgur.com/a/e2X99jb\">https://imgur.com/a/e2X99jb</a>",
+    "lat": 45.908611,
+    "lng": -86.483583,
+    "cc": "US"
+    },
+    {
+    "town": "Slope County",
+    "desc": "Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total (27.5-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2020-04-21<br><a href=\"https://fcc.report/IBFS/SES-LIC-20200422-00442\">https://fcc.report/IBFS/SES-LIC-20200422-00442</a>",
+    "lat": 46.408389,
+    "lng": -103.114583,
+    "cc": "US"
+    },
+    {
+    "town": "Los Angeles",
+    "desc": "Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total (27.5-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2020-04-27<br><a href=\"https://fcc.report/IBFS/SES-LIC-20200428-00458\">https://fcc.report/IBFS/SES-LIC-20200428-00458</a>",
+    "lat": 34.604028,
+    "lng": -117.454361,
+    "cc": "US"
+    },
+    {
+    "town": "Cass County, ND",
+    "desc": "Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total (27.5-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2020-04-30<br><a href=\"https://fcc.report/IBFS/SES-LIC-20200430-00472\">https://fcc.report/IBFS/SES-LIC-20200430-00472</a>",
+    "lat": 47.151694,
+    "lng": -97.408889,
+    "cc": "US"
+    },
+    {
+    "town": "Sanderson TX",
+    "desc": "Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total (27.5-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2020-04-01<br><a href=\"https://fcc.report/IBFS/SES-LIC-20200505-00498\">https://fcc.report/IBFS/SES-LIC-20200505-00498</a>",
+    "lat": 30.194,
+    "lng": -102.89,
+    "cc": "US"
+    },
+    {
+    "town": "Springer OK",
+    "desc": "Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total (27.5-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2020-05-21<br><a href=\"https://fcc.report/IBFS/SES-LIC-20200528-00576\">https://fcc.report/IBFS/SES-LIC-20200528-00576</a>",
+    "lat": 34.2685,
+    "lng": -97.213167,
+    "cc": "US"
+    },
+    {
+    "town": "Hitterdal MN",
+    "desc": "Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total (27.5-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2020-06-12<br><a href=\"https://fcc.report/IBFS/SES-LIC-20200616-00649\">https://fcc.report/IBFS/SES-LIC-20200616-00649</a>",
+    "lat": 46.978917,
+    "lng": -96.258028,
+    "cc": "US"
+    },
+    {
+    "town": "Tionesta CA",
+    "desc": "Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total (27.5-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2020-06-12<br><a href=\"https://fcc.report/IBFS/SES-LIC-20200616-00645\">https://fcc.report/IBFS/SES-LIC-20200616-00645</a>",
+    "lat": 41.644,
+    "lng": -121.329972,
+    "cc": "US"
+    },
+    {
+    "town": "Butte MT",
+    "desc": "<img src=\"https://doc-0o-78-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/8n5u9u7e60ptb54o2krmknh6s0/1637796600000/xJLYE5kRT4Z8xxy6hUeYp97cJJ0CBjRF/*/6AIsG_vapCqA4Nv8S5yJyi_Rc2xVwOJSMi3-ezfE4MTxmMJFaF2d59beU1ckafp3jKpeT4YVxJVFdsPHUjSwmlROucU7yPGxe37HkwqqPLSa6xCqRd4zXN2pCU39ZPFUwac2vJKbSwHJCzCpaq_RoGUOhwboe5IRjznyw3TtUgIFnbdPrfWMv6TpxnlBx2CufGijWeds?fife\" height=\"200\" width=\"auto\" /><br><br>Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total (27.5-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2020-06-12<br><a href=\"https://fcc.report/IBFS/SES-LIC-20200616-00648\">https://fcc.report/IBFS/SES-LIC-20200616-00648</a><br><br>More photos: <a href=\"https://www.reddit.com/r/Starlink/comments/jozfde/photos_of_butte_mt_gateway/\">https://www.reddit.com/r/Starlink/comments/jozfde/photos_of_butte_mt_gateway/</a>",
+    "lat": 45.924056,
+    "lng": -112.513194,
+    "cc": "US"
+    },
+    {
+    "town": "Colburn ID",
+    "desc": "<img src=\"https://doc-0k-78-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/c2tg5qckr9oq6aq0lbukap5bg0/1637796600000/xJLYE5kRT4Z8xxy6hUeYp97cJJ0CBjRF/*/6AIsG_vZKS9RPEp2tBE38oD2WtUP2qOnThfO6LKJT2XNN0wwALHCDvyyaPOdsSiooAMfHGeMIIQoAOlby3iVUMUEx3NGdDKVHgxmNYcvWp2OKJoQ8PXodnUf6ocikMMWORwBhgv_sTGm1d0B6dbD_8LNJdmSKeQqPaA_-GibIQiXL2MhY9c8pVj-gqR4_TkoBNM1kF3wG?fife\" height=\"200\" width=\"auto\" /><br><br>Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total (27.5-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2020-06-12<br><a href=\"https://fcc.report/IBFS/SES-LIC-20200616-00647\">https://fcc.report/IBFS/SES-LIC-20200616-00647</a><br><br>Photos: <a href=\"https://www.reddit.com/r/Starlink/comments/huv4ju/starlink_in_northidaho/\">https://www.reddit.com/r/Starlink/comments/huv4ju/starlink_in_northidaho/</a><br><br>Photos: <a href=\"https://www.reddit.com/r/Starlink/comments/hjbkuo/starlink_ground_station_being_constructed_near/\">https://www.reddit.com/r/Starlink/comments/hjbkuo/starlink_ground_station_being_constructed_near/</a><br><br><img src=\"https://doc-10-78-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/q8ar6fmft3ackp7rrequ8lu0p0/1637796600000/xJLYE5kRT4Z8xxy6hUeYp97cJJ0CBjRF/*/6AIsG_vaJCwap-x8ApETpluY9UYQWdghD9ynmeYdCz-mK3t7ghiBTPBanEgghRnQjnWTa-cQqWbWlPT_M2aPlzT-MgCw8GjILAin3VsyCdevJMsQclqKb9qDnl9YlwR2ayh-DBzUlA3Otrb4mJp1V1Huem3Z7cbf0P_qJ-rYEP17qJGLvArIDNPygn_W5nXD1RH3-VQ8?fife\" height=\"200\" width=\"auto\" /><br><br><img src=\"https://doc-0c-78-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/d4oick7ofkqvthes8tbvaei77c/1637796600000/xJLYE5kRT4Z8xxy6hUeYp97cJJ0CBjRF/*/6AIsG_vaDT6wlF9ZOWxTPok5FZWFsSJJs0JsvpZ-Y25PZfjKTBohFHuvqePFb6GkvMJ4V4D0Qo0QQiAU_nyUpfrcm1zrxPkMc4WQMm4gpgE_-DgeeWA7caFKbae2AW7R3OFPBzLUN7Z85oVv5H_fHgzgrOXyImF8GanUqiihr66zlU8WocO9zdwFkNr5gmKVUdfFQdAsl?fife\" height=\"200\" width=\"auto\" />",
+    "lat": 48.34525,
+    "lng": -116.439333,
+    "cc": "US"
+    },
+    {
+    "town": "Baxley GA",
+    "desc": "Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total (27.5-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2020-06-16<br><a href=\"https://fcc.report/IBFS/SES-LIC-20200616-00646\">https://fcc.report/IBFS/SES-LIC-20200616-00646</a>",
+    "lat": 31.682167,
+    "lng": -82.268972,
+    "cc": "US"
+    },
+    {
+    "town": "Robertsdale AL",
+    "desc": "<img src=\"https://doc-0c-78-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/413pr8vfhv51ec5546s82bh500/1637796600000/xJLYE5kRT4Z8xxy6hUeYp97cJJ0CBjRF/*/6AIsG_vZ6jnVavx3sREwH_CaCcynZbsZnrCVme4qlFRV62hlz_Qd0xR3CrujhAdSHbv1pHc2vx8pSa8VUVOnne8bfMB7AAr_SPjdtfP_PQE-3z7J7A9Oq6OG4RYKhFW5Bq7UDTqmEu0rLn6j9NGl8fLmE0UQV9t3h-fVGeE_yKwgZkE_rfxfrjMPolfwEB_adUbu9GQNc?fife\" height=\"200\" width=\"auto\" /><br><br>Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total (27.5-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2020-06-16<br><a href=\"https://fcc.report/IBFS/SES-LIC-20200616-00650\">https://fcc.report/IBFS/SES-LIC-20200616-00650</a>",
+    "lat": 30.567,
+    "lng": -87.646,
+    "cc": "US"
+    },
+    {
+    "town": "Roll AZ",
+    "desc": "Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total (27.5-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2020-06-29<br><a href=\"https://fcc.report/IBFS/SES-LIC-20200701-00686\">https://fcc.report/IBFS/SES-LIC-20200701-00686</a>",
+    "lat": 32.8155,
+    "lng": -113.798056,
+    "cc": "US"
+    },
+    {
+    "town": "Prosser WA",
+    "desc": "<img src=\"https://doc-0k-78-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/v8tse56tcrjmbt4bp45eh4u6e0/1637796600000/xJLYE5kRT4Z8xxy6hUeYp97cJJ0CBjRF/*/6AIsG_vaFTTbao7Dx5EsxpEARPqtNKEkDeOv4uXqyqZJeP4zlTtI6nIrLA3X0qodeF3wXrEfQd7Eha2CVSQLVcNbx3GOF18C_sTDmVHj7y3bOWX0fluuwtwKjlBFcqm651icLU9Ttau_JVj6wtAip390QVXQJmFvcZ8Bv22t40fKkH8bwsWzhm6BadFUHSq_kzMI9uVTe?fife\" height=\"200\" width=\"auto\" /><br><br>Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total (27.5-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2020-06-29<br><a href=\"https://fcc.report/IBFS/SES-LIC-20200701-00687\">https://fcc.report/IBFS/SES-LIC-20200701-00687</a><br><br>Photos: <a href=\"https://www.reddit.com/r/Starlink/comments/hufgs8/starlink_us_gateway_prosser_wa/\">https://www.reddit.com/r/Starlink/comments/hufgs8/starlink_us_gateway_prosser_wa/</a><br><br>Progress photos: <a href=\"https://www.reddit.com/r/Starlink/comments/kc044t/progress_at_the_prosser_wa_ground_station/\">https://www.reddit.com/r/Starlink/comments/kc044t/progress_at_the_prosser_wa_ground_station/</a><br><br><img src=\"https://doc-04-78-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/tn2gbvpu2mr1vbmnsfpq8ocrqg/1637796600000/xJLYE5kRT4Z8xxy6hUeYp97cJJ0CBjRF/*/6AIsG_vY-nIduzgeTSzFaOgER9wGvF5aotGyXZVy7GvL0SAzzXeqmo_jv2DMBASwe8W_HcMaJB7fx4HS7hdEBhczQe3cxmQgCfWZ3c9eGrxotcvh-9_gI3AWYozPN8yBnyYg0fUgTVv556WhQ1cATvDgMtuKYMFNVwB1uZJ0C0h874fB0-5vYeyjOv0QB-VKRHKV1HACe?fife\" height=\"200\" width=\"auto\" />",
+    "lat": 46.127278,
+    "lng": -119.684305,
+    "cc": "US"
+    },
+    {
+    "town": "Vernon UT",
+    "desc": "<img src=\"https://doc-0o-78-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/ok1uucda4dne6q10agkcuam33o/1637796600000/xJLYE5kRT4Z8xxy6hUeYp97cJJ0CBjRF/*/6AIsG_vZ_QAihTkIFeSK1SBU450WGzUbw7apaw3Lzg9Bft_Y0agOXv6Se7DK6Nc5L3uzmQthLqSiamiFQcbIWW4gEGmAZaH-YtrNLGRjDPU0FGzc_7DfMPxAbNILKAJ8ynnUR0yl-NPNmIVhuTMb1lZ7DKoWMb07x5KRpppyvh6VFEEuK_FSex66O_itzth69dl6IImMN?fife\" height=\"200\" width=\"auto\" /><br><br>Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total (27.5-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2020-07-08<br><a href=\"https://fcc.report/IBFS/SES-LIC-20200709-00735\">https://fcc.report/IBFS/SES-LIC-20200709-00735</a>",
+    "lat": 40.076222,
+    "lng": -112.354722,
+    "cc": "US"
+    },
+    {
+    "town": "Inman KS",
+    "desc": "<a href='/images/IMG_6859.png'>image</a> credit @ksteslaman<br><img src=\"https://doc-0k-78-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/0bslgarm6vr0oeu8krg5min5so/1637796600000/xJLYE5kRT4Z8xxy6hUeYp97cJJ0CBjRF/*/6AIsG_vbaGtK4Cl92Sgu8cLDxlvdwAUJB5XAXSr5fSPwYQIL19WoV0i6zEapFJKAegrUfc3TEdw2VOaMJtwdSCLXC_iSRSQTfFwusb5hJ1DeFcr_Uo3x1PeKxC6MjHBzQ0dUXQhyPH3FczmfAobrqHa9sbomcLYt2c_tExntM1BMU3Bx5q_sSH-Rw7VMr793IstJNQ4p-?fife\" height=\"200\" width=\"auto\" /><br><br>Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total (27.5-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2020-07-13<br><a href=\"https://fcc.report/IBFS/SES-LIC-20200714-00758\">https://fcc.report/IBFS/SES-LIC-20200714-00758</a>",
+    "lat": 38.229,
+    "lng": -97.921972,
+    "cc": "US"
+    },
+    {
+    "town": "Evanston WY",
+    "desc": "<img src=\"https://doc-04-78-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/3m3kk18qb1fcg9m76fbg09d84k/1637796600000/xJLYE5kRT4Z8xxy6hUeYp97cJJ0CBjRF/*/6AIsG_vYsiLx7XJhX6m1-x5x9-OpeQoDq0tH0haC-00ao3ZqdBHAI2HQAbg4cSXK_fs5JFS_0e-dSFguZ_rpLYApSrltiOei-ltziUAthlZn8XhAl02OmiRZuA1N_ynN_OefuvPhvM006DxiY0uBEkPYVwe9WySYDFPisELy8biuHXYjuZnYxX8QAgYdsYpzSYr_wKFPG?fife\" height=\"200\" width=\"auto\" /><br><br>Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total (27.5-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2020-07-30<br><a href=\"https://fcc.report/IBFS/SES-AMD-20200730-00803\">https://fcc.report/IBFS/SES-AMD-20200730-00803</a><br><br>Photos: <a href=\"https://www.reddit.com/r/Starlink/comments/lzj0qg/the_evanston_wy_ground_station/\">https://www.reddit.com/r/Starlink/comments/lzj0qg/the_evanston_wy_ground_station/</a>",
+    "lat": 41.0925,
+    "lng": -110.842611,
+    "cc": "US"
+    },
+    {
+    "town": "Punta Gorda FL",
+    "desc": "<img src=\"https://doc-00-78-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/3djrqsun8d2knjie0h4ta3tbf8/1637796600000/xJLYE5kRT4Z8xxy6hUeYp97cJJ0CBjRF/*/6AIsG_vYv-DPFih0Lgw02BihfAMDDjMPbStv9BETO9og7RGwLiBzYlHoqap49UHSlM2Oc3B8rGL9lA5qtsPcIYoF3RBfPIl2KBwL-i41eALsMeTDRiJCzckd9DnbkRBFQdi-QbF3jY6LwsA1DtS-UKun0sPCO_hyQ1m0hfjlq4fjkFLcF2YumGk9db_8owkOaXNCjKttV?fife\" height=\"200\" width=\"auto\" /><br><br>Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total (27.5-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2020-08-06<br><a href=\"https://fcc.report/IBFS/SES-LIC-20200811-00860\">https://fcc.report/IBFS/SES-LIC-20200811-00860</a>",
+    "lat": 27.019667,
+    "lng": -81.762028,
+    "cc": "US"
+    },
+    {
+    "town": "Tracy City, TN",
+    "desc": "Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total (27.5-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2020-09-01<br><a href=\"https://fcc.report/IBFS/SES-LIC-20200903-00966\">https://fcc.report/IBFS/SES-LIC-20200903-00966</a><br><br><a href=\"https://fcc.report/IBFS/SES-STA-20210208-00260\">https://fcc.report/IBFS/SES-STA-20210208-00260</a>",
+    "lat": 35.19725,
+    "lng": -85.666,
+    "cc": "US"
+    },
+    {
+    "town": "Kuparuk, AK",
+    "desc": "Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total (27.5-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2020-09-02<br><a href=\"https://fcc.report/IBFS/SES-LIC-20200903-00965\">https://fcc.report/IBFS/SES-LIC-20200903-00965</a><br><br><a href=\"https://fcc.report/IBFS/SES-STA-20210208-00259\">https://fcc.report/IBFS/SES-STA-20210208-00259</a>",
+    "lat": 70.317667,
+    "lng": -148.941194,
+    "cc": "US"
+    },
+    {
+    "town": "Gaffney, SC",
+    "desc": "Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total (27.5-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2020-09-02<br><a href=\"https://fcc.report/IBFS/SES-LIC-20200903-00976\">https://fcc.report/IBFS/SES-LIC-20200903-00976</a><br><br><a href=\"https://fcc.report/IBFS/SES-STA-20210208-00266\">https://fcc.report/IBFS/SES-STA-20210208-00266</a>",
+    "lat": 34.985306,
+    "lng": -81.733083,
+    "cc": "US"
+    },
+    {
+    "town": "Robbins, CA",
+    "desc": "Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total (27.5-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2020-10-16<br><a href=\"https://fcc.report/IBFS/SES-LIC-20201020-01153\">https://fcc.report/IBFS/SES-LIC-20201020-01153</a><br><a href=\"https://fcc.report/IBFS/SES-STA-20210208-00262\">https://fcc.report/IBFS/SES-STA-20210208-00262</a>",
+    "lat": 38.875,
+    "lng": -121.707055,
+    "cc": "US"
+    },
+    {
+    "town": "Wise, NC",
+    "desc": "<img src=\"https://doc-0k-78-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/idppsmfh1f9jhf7oequfor1vok/1637796600000/xJLYE5kRT4Z8xxy6hUeYp97cJJ0CBjRF/*/6AIsG_vZvqmc9emmBv85KXLi2ik2jZS7aRgss2F95Ye1Z27dQ2ktQcT60iAUb20Ewyazl1NIOyoBsHHUAXxJp54G5BW59P93QRhYmZniwRlUJL4Q4eevGRjwEN6G014auTjtKJGKppBrgdzECOoRjILXEMBcqTymA6LnQendq2uF_wpZw6tmbbmCjP_lVem2nXxLrHu0C?fife\" height=\"200\" width=\"auto\" /><br><br>Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total (27.5-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2020-10-16<br><a href=\"https://fcc.report/IBFS/SES-LIC-20201023-01173\">https://fcc.report/IBFS/SES-LIC-20201023-01173</a><br><br><a href=\"https://fcc.report/IBFS/SES-STA-20210208-00265\">https://fcc.report/IBFS/SES-STA-20210208-00265</a><br><br><img src=\"https://doc-14-78-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/646abn3bdehsthsi15g8bp8m84/1637796600000/xJLYE5kRT4Z8xxy6hUeYp97cJJ0CBjRF/*/6AIsG_vboGlUIf5bNGvtS6SHfaZlCDPrmb6wijAbJWSwGqAx5msot-dvfG4i138EkBUGNaf19jDjbufL-Ie6JjJScw4xFdhTxwbkfObiykqLO2rN7FDQIxsadZVGmkJ4u8ESfLVWOXkefS9PhWcaEH9wLzh36xpBYcbvfyrMyh4mYr3v-T3z0coj0QQzjK3Kw3pU25jhH?fife\" height=\"200\" width=\"auto\" /><br><br><img src=\"https://doc-0o-78-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/l95d4uqi5nh3to8me6keissngk/1637796600000/xJLYE5kRT4Z8xxy6hUeYp97cJJ0CBjRF/*/6AIsG_vZD25Ro2rrPcUndNpi_-hPLXljJ4oJ7u8WbIYVek-2wsV_bIZdtZZX2dx4huOc-QaqYAyBEak9hALjfKlaGf1DFzqQfHlvTRHfNrVk6-brKJfeU5Fu2EXIDc7b12x_GN4FZQdw9is2_RYJ3gz5PwQrRjRu38TuXtGWYZXwFG1sozFlpqMUspjA5sUxXUQWHHBBI?fife\" height=\"200\" width=\"auto\" />",
+    "lat": 36.470639,
+    "lng": -78.173389,
+    "cc": "US"
+    },
+    {
+    "town": "Mandale NC",
+    "desc": "<img src=\"https://doc-04-78-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/hjalsm9mheahtrrh9m767jk3sk/1637796600000/xJLYE5kRT4Z8xxy6hUeYp97cJJ0CBjRF/*/6AIsG_vYrZjwf8LmAy6d52RlL3s2gnK96dktUebfSxnB3sadPkl1BShag36P-6aGhTH-uvgaFTi01ntIagcsmFAlcU5fG4ZWLQATW5H6qCRmK6DSuy71x43VTttlCWlZaPcsM-6O8kATZtKbeYf_M281RADseOftEez8hzdqplq9CJaH4mhugHtNd3frJ5iJWvtOkp367?fife\" height=\"200\" width=\"auto\" /><br><br>Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total (27.5-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2020-10-16<br><a href=\"https://fcc.report/IBFS/SES-LIC-20201021-01160\">https://fcc.report/IBFS/SES-LIC-20201021-01160</a><br><br><a href=\"https://fcc.report/IBFS/SES-STA-20210208-00263\">https://fcc.report/IBFS/SES-STA-20210208-00263</a>",
+    "lat": 35.895361,
+    "lng": -79.224889,
+    "cc": "US"
+    },
+    {
+    "town": "Dumas, TX",
+    "desc": "Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total (27.5-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2020-10-16<br><a href=\"https://fcc.report/IBFS/SES-LIC-20201019-01147\">https://fcc.report/IBFS/SES-LIC-20201019-01147</a><br><br><a href=\"https://fcc.report/IBFS/SES-STA-20210208-00268\">https://fcc.report/IBFS/SES-STA-20210208-00268</a>",
+    "lat": 35.807972,
+    "lng": -102.031861,
+    "cc": "US"
+    },
+    {
+    "town": "Hamshire, TX",
+    "desc": "Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total (27.5-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2020-12-07<br><a href=\"https://fcc.report/IBFS/SES-LIC-20201208-01396\">https://fcc.report/IBFS/SES-LIC-20201208-01396</a>",
+    "lat": 29.859861,
+    "lng": -94.312333,
+    "cc": "US"
+    },
+    {
+    "town": "Marcell MN",
+    "desc": "Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total (27.5-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2020-12-07<br><a href=\"https://fcc.report/IBFS/SES-LIC-20201208-01397\">https://fcc.report/IBFS/SES-LIC-20201208-01397</a>",
+    "lat": 47.593167,
+    "lng": -93.692528,
+    "cc": "US"
+    },
+    {
+    "town": "Lockport, NY",
+    "desc": "<img src=\"https://doc-0s-78-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/ikgv47aecih8dlb4u90vmvor9g/1637796600000/xJLYE5kRT4Z8xxy6hUeYp97cJJ0CBjRF/*/6AIsG_vYuLC6Vplw-XMs7TzaEZGBSDjXDUHGS1g0V2Y_DqfkaQlJLtVwcddzR2afBor15j1DAda0X27BwkAcQ8KLA5h0xP4uSuTerUND6US5tRTD_cSDyWAedpCiq-CMhcLEu1_Cj-xUuA6UF4gQCxP0kZ9V1oy8exVbI_-dqzWUFRebwDsA5E399I5bw8DPZ1n1RCC4I?fife\" height=\"200\" width=\"auto\" /><br><br>Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total (27.5-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2021-01-04<br><a href=\"https://fcc.report/IBFS/SES-LIC-20210105-00015\">https://fcc.report/IBFS/SES-LIC-20210105-00015</a><br><br>Photos: <a href=\"https://www.reddit.com/r/Starlink/comments/l41mrn/new_lockport_ny_ground_stationgateway_first_view/\">https://www.reddit.com/r/Starlink/comments/l41mrn/new_lockport_ny_ground_stationgateway_first_view/</a><br><br>Next to a Yahoo! data center.<br><br><img src=\"https://doc-14-78-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/c82tm26j4cebmsoidu9e4euvio/1637796600000/xJLYE5kRT4Z8xxy6hUeYp97cJJ0CBjRF/*/6AIsG_vaQtwV7ZVqYLkze6R0AD5n5CAeY69yEDwrbr50lo7UULwUtuI4vxDuK8-wxcnyMdu-tOlP_Mi0MmVuJO-XBog-SV_phcaZtp5VaxuhnuJPAwa67D0jsQNlWvWNoZ4kjPEb0I8UoWjaiVWdWlRbeXL23EIG-AydrnHNa1gQ2deX1P0YeV-0peg9QAoVeTFWVxgTc?fife\" height=\"200\" width=\"auto\" />",
+    "lat": 43.166556,
+    "lng": -78.755111,
+    "cc": "US"
+    },
+    {
+    "town": "Hillman, MI",
+    "desc": "Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total (27.5-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2021-03-01<br><a href=\"https://fcc.report/IBFS/SES-LIC-20210303-00425\">https://fcc.report/IBFS/SES-LIC-20210303-00425</a><br><br><a href=\"https://fcc.report/IBFS/SES-STA-INTR2021-02163/9162709\">https://fcc.report/IBFS/SES-STA-INTR2021-02163/9162709</a>",
+    "lat": 45.07325,
+    "lng": -83.900417,
+    "cc": "US"
+    },
+    {
+    "town": "Lawrence, KS",
+    "desc": "Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 1.25 GHz total (28.35-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2021-03-11<br><a href=\"https://fcc.report/IBFS/SES-LIC-20210311-00469\">https://fcc.report/IBFS/SES-LIC-20210311-00469</a>",
+    "lat": 39.013889,
+    "lng": -95.149389,
+    "cc": "US"
+    },
+    {
+    "town": "Norcross, GA",
+    "desc": "Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 1.25 GHz total (28.35-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2021-03-11<br><a href=\"https://fcc.report/IBFS/SES-LIC-20210311-00472\">https://fcc.report/IBFS/SES-LIC-20210311-00472</a><br><br>Next to a Flexential data center",
+    "lat": 33.954972,
+    "lng": -84.197972,
+    "cc": "US"
+    },
+    {
+    "town": "Fort Lauderdale",
+    "desc": "Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 1.25 GHz total (28.35-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2021-03-11<br><a href=\"https://fcc.report/IBFS/SES-LIC-20210311-00470\">https://fcc.report/IBFS/SES-LIC-20210311-00470</a><br><br>Next to a Flexential data center",
+    "lat": 26.190861,
+    "lng": -80.193083,
+    "cc": "US"
+    },
+    {
+    "town": "Broadview, IL",
+    "desc": "Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total (27.5-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2021-03-11<br><a href=\"https://fcc.report/IBFS/SES-LIC-20210311-00471\">https://fcc.report/IBFS/SES-LIC-20210311-00471</a>",
+    "lat": 41.854889,
+    "lng": -87.858889,
+    "cc": "US"
+    },
+    {
+    "town": "Sullivan, ME",
+    "desc": "Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total (27.5-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2021-03-18<br><a href=\"https://fcc.report/IBFS/SES-LIC-20210322-00573\">https://fcc.report/IBFS/SES-LIC-20210322-00573</a><br><br><a href=\"https://fcc.report/IBFS/SES-STA-INTR2021-02161/9162711\">https://fcc.report/IBFS/SES-STA-INTR2021-02161/9162711</a>",
+    "lat": 44.530972,
+    "lng": -68.224,
+    "cc": "US"
+    },
+    {
+    "town": "Lunenburg, VT",
+    "desc": "Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total (27.5-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2021-03-18<br><a href=\"https://fcc.report/IBFS/SES-LIC-20210322-00572\">https://fcc.report/IBFS/SES-LIC-20210322-00572</a><br><br><a href=\"https://fcc.report/IBFS/SES-STA-INTR2021-02162/9162710\">https://fcc.report/IBFS/SES-STA-INTR2021-02162/9162710</a>",
+    "lat": 44.412028,
+    "lng": -71.731833,
+    "cc": "US"
+    },
+    {
+    "town": "Ketchikan AK",
+    "desc": "Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total (27.5-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2021-04-07<br><a href=\"https://fcc.report/IBFS/SES-LIC-20210420-00722\">https://fcc.report/IBFS/SES-LIC-20210420-00722</a>",
+    "lat": 55.314611,
+    "lng": -131.585694,
+    "cc": "US"
+    },
+    {
+    "town": "Rolette, ND",
+    "desc": "Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total (27.5-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2021-04-09<br><a href=\"https://fcc.report/IBFS/SES-LIC-20210412-00662\">https://fcc.report/IBFS/SES-LIC-20210412-00662</a>",
+    "lat": 48.660361,
+    "lng": -99.810528,
+    "cc": "US"
+    },
+    {
+    "town": "Fairbanks, AK",
+    "desc": "<img src=\"https://doc-0o-78-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/auodn7mua7vu6ffmgkrgh0t6vo/1637796600000/xJLYE5kRT4Z8xxy6hUeYp97cJJ0CBjRF/*/6AIsG_vZK-g8dahQ5O_ZBJPRCiZqt3XgOkkNdhZ0_81pWWSApxRYPE_zhwdpqUgE6re46ShI85htehsuEecpwxPx4pRL2er5zMNH0ZjNjrgArnR_UR8WZIabX_EScC8_OqST5evmljtwOuWapYm2hvEf5uzPGGE90Ivu1f-iB6vB-NKRjCL95gc1pkvnstaATesmF1g7k?fife\" height=\"200\" width=\"auto\" /><br><br>Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total (27.5-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2021-04-09<br><a href=\"https://fcc.report/IBFS/SES-LIC-20210412-00666\">https://fcc.report/IBFS/SES-LIC-20210412-00666</a>",
+    "lat": 64.805167,
+    "lng": -147.500222,
+    "cc": "US"
+    },
+    {
+    "town": "New Braunfels, TX",
+    "desc": "Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 1.25 GHz total (28.35-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2021-04-22<br><br><a href=\"https://fcc.report/IBFS/SES-LIC-20210423-00756\">https://fcc.report/IBFS/SES-LIC-20210423-00756</a>",
+    "lat": 29.784056,
+    "lng": -98.050778,
+    "cc": "US"
+    },
+    {
+    "town": "Nome, AK",
+    "desc": "Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 1.25 GHz total (28.35-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2021-05-27<br><br><a href=\"https://fcc.report/IBFS/SES-LIC-20210527-00861\">https://fcc.report/IBFS/SES-LIC-20210527-00861</a>",
+    "lat": 64.5035,
+    "lng": -165.428305,
+    "cc": "US"
+    },
+    {
+    "town": "Kenansville, FL",
+    "desc": "Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total (27.5-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2021-05-28<br><br><a href=\"https://fcc.report/IBFS/SES-LIC-20210601-00878\">https://fcc.report/IBFS/SES-LIC-20210601-00878</a>",
+    "lat": 27.876006,
+    "lng": -81.030486,
+    "cc": "US"
+    },
+    {
+    "town": "Honolulu, Hawaii",
+    "desc": "A single off the shelf Cobham Ku antenna in Pacific Wireless Communications' lot.<br><br>Very likely to enable live high bandwidth communications between a descending Starship and SpaceX HQ in Hawthorne, CA.<br><br><a href=\"https://fcc.report/IBFS/SES-LIC-20210518-00803\">https://fcc.report/IBFS/SES-LIC-20210518-00803</a><br><br><a href=\"https://spaceflightnow.com/2021/05/13/spacex-outlines-plans-for-around-the-world-starship-test-flight/\">https://spaceflightnow.com/2021/05/13/spacex-outlines-plans-for-around-the-world-starship-test-flight/</a>",
+    "lat": 21.315,
+    "lng": -157.866417,
+    "cc": "US"
+    },
+    {
+    "town": "St John's (Newfoundland & Labrador) Developmental",
+    "desc": "<img src=\"https://doc-10-78-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/5gqt4oqkrb369rrou5dc6s4vv8/1637796600000/xJLYE5kRT4Z8xxy6hUeYp97cJJ0CBjRF/*/6AIsG_vZvRnj6LYG0XlgDIW4XuJQm0Q8wjrB6xzzsR0-Xax5n7DG9LaBxZ3bTpcbRJWYIorbb281h7pIgBJ_N-YTM4ukstfp9NCLGTUZNSsO6jDMFT7vBM66_XqIwRwBDNdtaOyiSPbuQ3WJvqUv8DC22HNtvxUROXurQN3bK7uLd45fVYDDxJonPXGvWwVSlit3Dr77e?fife\" height=\"200\" width=\"auto\" /><br><br>Antennas: 3 (1 currently licensed, 2 not granted)<br>Date filed: 2020-11-12<br><br><a href=\"https://www.reddit.com/r/Starlink/comments/jupc2q/where_to_watch_on_government_websites_for/gcgqh1o/\">https://www.reddit.com/r/Starlink/comments/jupc2q/where_to_watch_on_government_websites_for/gcgqh1o/</a><br><br>Photos: <a href=\"https://www.reddit.com/r/Starlink/comments/kkrh0e/st_johns_nl_canada_starlink_gateway_photos_and/\">https://www.reddit.com/r/Starlink/comments/kkrh0e/st_johns_nl_canada_starlink_gateway_photos_and/</a>",
+    "lat": 47.5608537,
+    "lng": -52.77538796,
+    "cc": "CA"
+    },
+    {
+    "town": "Broken Hill, NSW",
+    "desc": "Antenna count: 8<br>Antenna diameter: 1.47m<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total ( 27.9-29.5, 29.75-30.25 GHz)<br>Downlink: 1.25 GHz total (18.175-18.925, 19.05-19.55 GHz)<br>Date filed: 2020-10-30<br><br><a href=\"https://web.acma.gov.au/rrl/site_search.site_lookup?pSITE_ID=10021787\">https://web.acma.gov.au/rrl/site_search.site_lookup?pSITE_ID=10021787</a>",
+    "lat": -31.998258,
+    "lng": 141.441058,
+    "cc": "AU"
+    },
+    {
+    "town": "Pimba, SA",
+    "desc": "Antenna count: 8<br>Antenna diameter: 1.47m<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total ( 27.9-29.5, 29.75-30.25 GHz)<br>Downlink: 1.25 GHz total (18.175-18.925, 19.05-19.55 GHz)<br>Date filed: 2020-10-30<br><br><a href=\"https://web.acma.gov.au/rrl/site_search.site_lookup?pSITE_ID=10021788\">https://web.acma.gov.au/rrl/site_search.site_lookup?pSITE_ID=10021788</a>",
+    "lat": -31.250747,
+    "lng": 136.801335,
+    "cc": "AU"
+    },
+    {
+    "town": "Boorowa, NSW",
+    "desc": "Antenna count: 8<br>Antenna diameter: 1.47m<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total ( 27.9-29.5, 29.75-30.25 GHz)<br>Downlink: 1.25 GHz total (18.175-18.925, 19.05-19.55 GHz)<br>Date filed: 2020-10-30<br><br><a href=\"https://web.acma.gov.au/rrl/site_search.site_lookup?pSITE_ID=10021789\">https://web.acma.gov.au/rrl/site_search.site_lookup?pSITE_ID=10021789</a><br><br>Photo: <a href=\"https://www.abc.net.au/news/2021-02-12/starlink-australia-price-availability-revealed/13144262\">https://www.abc.net.au/news/2021-02-12/starlink-australia-price-availability-revealed/13144262</a>",
+    "lat": -34.462093,
+    "lng": 148.705734,
+    "cc": "AU"
+    },
+    {
+    "town": "Wagin, WA",
+    "desc": "Antenna count: 8<br>Antenna diameter: 1.47m<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total ( 27.9-29.5, 29.75-30.25 GHz)<br>Downlink: 1.25 GHz total (18.175-18.925, 19.05-19.55 GHz)<br>Date filed: 2020-10-30<br><br><a href=\"https://web.acma.gov.au/rrl/site_search.site_lookup?pSITE_ID=10021790\">https://web.acma.gov.au/rrl/site_search.site_lookup?pSITE_ID=10021790</a>",
+    "lat": -33.308268,
+    "lng": 117.343372,
+    "cc": "AU"
+    },
+    {
+    "town": "Awarua",
+    "desc": "Date filed: 2020-11-20<br>Licensee: Starlink<br><br><a href=\"https://rrf.rsm.govt.nz/smart-web/smart/page/-smart/domain/licence/SelectLicencePage.wdk?showExit=Yes\">https://rrf.rsm.govt.nz/smart-web/smart/page/-smart/domain/licence/SelectLicencePage.wdk?showExit=Yes</a>",
+    "lat": -46.528889,
+    "lng": 168.378611,
+    "cc": "NZ"
+    },
+    {
+    "town": "Cromwell",
+    "desc": "Date filed: 2020-09-21<br>Licensee: Starlink<br><br><a href=\"https://rrf.rsm.govt.nz/smart-web/smart/page/-smart/domain/licence/SelectLicencePage.wdk?showExit=Yes\">https://rrf.rsm.govt.nz/smart-web/smart/page/-smart/domain/licence/SelectLicencePage.wdk?showExit=Yes</a>",
+    "lat": -45.059722,
+    "lng": 169.206111,
+    "cc": "NZ"
+    },
+    {
+    "town": "Hinds",
+    "desc": "Date filed: 2020-11-12<br>Licensee: Starlink<br><br><a href=\"https://rrf.rsm.govt.nz/smart-web/smart/page/-smart/domain/licence/SelectLicencePage.wdk?showExit=Yes\">https://rrf.rsm.govt.nz/smart-web/smart/page/-smart/domain/licence/SelectLicencePage.wdk?showExit=Yes</a>",
+    "lat": -43.921944,
+    "lng": 171.89,
+    "cc": "NZ"
+    },
+    {
+    "town": "Clevedon",
+    "desc": "Date filed: 2020-10-28<br>Licensee: Starlink<br><br><a href=\"https://rrf.rsm.govt.nz/smart-web/smart/page/-smart/domain/licence/SelectLicencePage.wdk?showExit=Yes\">https://rrf.rsm.govt.nz/smart-web/smart/page/-smart/domain/licence/SelectLicencePage.wdk?showExit=Yes</a>",
+    "lat": -36.989722,
+    "lng": 175.055278,
+    "cc": "NZ"
+    },
+    {
+    "town": "Te Hana",
+    "desc": "Date filed: 2020-08-18<br>Licensee: Starlink<br><br><a href=\"https://rrf.rsm.govt.nz/smart-web/smart/page/-smart/domain/licence/SelectLicencePage.wdk?showExit=Yes\">https://rrf.rsm.govt.nz/smart-web/smart/page/-smart/domain/licence/SelectLicencePage.wdk?showExit=Yes</a>",
+    "lat": -36.236944,
+    "lng": 174.512222,
+    "cc": "NZ"
+    },
+    {
+    "town": "Puwera",
+    "desc": "<img src=\"https://doc-0g-78-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/pka8lcqhs5phj94qhpsps9jang/1637796600000/xJLYE5kRT4Z8xxy6hUeYp97cJJ0CBjRF/*/6AIsG_vbK8nmxkQPuclINILdWMjLcihZ_C35BQyH9Q9r8nGCr93EEIDqKPP2i9hlpLUkDmtqHVnXy0ogC89fSiNTdfV-66SGrMYwjo0qx5y80B_wAXbl2zx5CgQNXTQKocV2OGETcf_LFAsqYWlUFD3pZyGIQzXdqUXI1s0QJQ3uWszwRpREtWPvrfIC5YOhCM0WvSFrX?fife\" height=\"200\" width=\"auto\" /><br><br>Date filed: 2020-11-16<br>Licensee: Starlink<br><br><a href=\"https://rrf.rsm.govt.nz/smart-web/smart/page/-smart/domain/licence/SelectLicencePage.wdk?showExit=Yes\">https://rrf.rsm.govt.nz/smart-web/smart/page/-smart/domain/licence/SelectLicencePage.wdk?showExit=Yes</a>",
+    "lat": -35.793333,
+    "lng": 174.300278,
+    "cc": "NZ"
+    },
+    {
+    "town": "Cobargo, NSW",
+    "desc": "Antenna count: 8<br>Antenna diameter: 1.47m<br>Antenna manufacturer: SpaceX<br>Uplink: 2.5 GHz total ( 27.5-30 GHz)<br>Downlink: 1.25 GHz total (17.8-18.55, 18.8-19.3 GHz)<br>Date Authorised: 2021-04-21<br><br><a href=\"https://web.acma.gov.au/rrl/licence_search.licence_lookup?pLICENCE_NO=11240829/1\">https://web.acma.gov.au/rrl/licence_search.licence_lookup?pLICENCE_NO=11240829/1</a>",
+    "lat": -36.388611,
+    "lng": 149.89139,
+    "cc": "AU"
+    },
+    {
+    "town": "Torrumbarry, VIC",
+    "desc": "Antenna count: 8<br>Antenna diameter: 1.47m<br>Antenna manufacturer: SpaceX<br>Uplink: 2.5 GHz total ( 27.5-30 GHz)<br>Downlink: 1.25 GHz total (17.8-18.55, 18.8-19.3 GHz)<br>Date Authorised: 2021-04-21<br><br><a href=\"https://web.acma.gov.au/rrl/licence_search.licence_lookup?pLICENCE_NO=11240798/1\">https://web.acma.gov.au/rrl/licence_search.licence_lookup?pLICENCE_NO=11240798/1</a>",
+    "lat": -36.025227,
+    "lng": 144.50012,
+    "cc": "AU"
+    },
+    {
+    "town": "Ki Ki, SA",
+    "desc": "Antenna count: 8<br>Antenna diameter: 1.47m<br>Antenna manufacturer: SpaceX<br>Uplink: 2.5 GHz total ( 27.5-30 GHz)<br>Downlink: 1.25 GHz total (17.8-18.55, 18.8-19.3 GHz)<br>Date Authorised: 2021-04-21<br><br><a href=\"https://web.acma.gov.au/rrl/licence_search.licence_lookup?pLICENCE_NO=11240794/1\">https://web.acma.gov.au/rrl/licence_search.licence_lookup?pLICENCE_NO=11240794/1</a>",
+    "lat": -35.57156,
+    "lng": 139.81749,
+    "cc": "AU"
+    },
+    {
+    "town": "Cataby, WA",
+    "desc": "Antenna count: 8<br>Antenna diameter: 1.47m<br>Antenna manufacturer: SpaceX<br>Uplink: 2.5 GHz total ( 27.5-30 GHz)<br>Downlink: 1.25 GHz total (17.8-18.55, 18.8-19.3 GHz)<br>Date Authorised: 2021-04-21<br><br><a href=\"https://web.acma.gov.au/rrl/licence_search.licence_lookup?pLICENCE_NO=11240790/1\">https://web.acma.gov.au/rrl/licence_search.licence_lookup?pLICENCE_NO=11240790/1</a>",
+    "lat": -30.848289,
+    "lng": 115.61951,
+    "cc": "AU"
+    },
+    {
+    "town": "Merredin, WA",
+    "desc": "Antenna count: 8<br>Antenna diameter: 1.47m<br>Antenna manufacturer: SpaceX<br>Uplink: 2.5 GHz total ( 27.5-30 GHz)<br>Downlink: 1.25 GHz total (17.8-18.55, 18.8-19.3 GHz)<br>Date Authorised: 2021-04-21<br><br><a href=\"https://web.acma.gov.au/rrl/licence_search.licence_lookup?pLICENCE_NO=11240787/1\">https://web.acma.gov.au/rrl/licence_search.licence_lookup?pLICENCE_NO=11240787/1</a>",
+    "lat": -31.494875,
+    "lng": 118.27777,
+    "cc": "AU"
+    },
+    {
+    "town": "Bogantungan, QLD",
+    "desc": "Antenna diameter: 1.47m<br>Antenna manufacturer: SpaceX<br>Date authorized: 2021-5-27<br><br><a href=\"https://web.acma.gov.au/rrl//site_search.site_lookup?pSITE_ID=10025576\">https://web.acma.gov.au/rrl//site_search.site_lookup?pSITE_ID=10025576</a>",
+    "lat": -23.648001,
+    "lng": 147.29289,
+    "cc": "AU"
+    },
+    {
+    "town": "Calrossie, NSW",
+    "desc": "Antenna diameter: 1.47m<br>Antenna manufacturer: SpaceX<br>Date authorized: 2021-5-26<br><br><a href=\"https://web.acma.gov.au/rrl//site_search.site_lookup?pSITE_ID=10025574\">https://web.acma.gov.au/rrl//site_search.site_lookup?pSITE_ID=10025574</a>",
+    "lat": -29.057781,
+    "lng": 150.04001,
+    "cc": "AU"
+    },
+    {
+    "town": "Springbrook Creek, NSW",
+    "desc": "Antenna diameter: 1.47m<br>Antenna manufacturer: SpaceX<br>Date authorized: 2021-5-24<br><br><a href=\"https://web.acma.gov.au/rrl//site_search.site_lookup?pSITE_ID=10025573\">https://web.acma.gov.au/rrl//site_search.site_lookup?pSITE_ID=10025573</a>",
+    "lat": -30.439794,
+    "lng": 149.683847,
+    "cc": "AU"
+    },
+    {
+    "town": "Bulla Bulling, WA",
+    "desc": "Antenna diameter: 1.47m<br>Antenna manufacturer: SpaceX<br>Date authorized: 2021-5-24<br><br><a href=\"https://web.acma.gov.au/rrl//site_search.site_lookup?pSITE_ID=10025575\">https://web.acma.gov.au/rrl//site_search.site_lookup?pSITE_ID=10025575</a>",
+    "lat": -31.029747,
+    "lng": 120.81982,
+    "cc": "AU"
+    },
+    {
+    "town": "Villenave d’Ornon, France",
+    "desc": "Original and updated authorizations: <a href=\"https://www.arcep.fr/uploads/tx_gsavis/20-0884.pdf\">https://www.arcep.fr/uploads/tx_gsavis/20-0884.pdf</a> <a href=\"https://www.arcep.fr/uploads/tx_gsavis/20-1415.pdf\">https://www.arcep.fr/uploads/tx_gsavis/20-1415.pdf</a><br><br>A local media article and location: <a href=\"https://www.reddit.com/r/Starlink/comments/lym1sx/is_this_the_villenave_dornon_ground_station_in/\">https://www.reddit.com/r/Starlink/comments/lym1sx/is_this_the_villenave_dornon_ground_station_in/</a>",
+    "lat": 44.7809519,
+    "lng": -0.5373232,
+    "cc": "FR"
+    },
+    {
+    "town": "Gravelines, France",
+    "desc": "Original and updated authorizations: <a href=\"https://www.arcep.fr/uploads/tx_gsavis/20-0765.pdf\">https://www.arcep.fr/uploads/tx_gsavis/20-0765.pdf</a>  <a href=\"https://www.arcep.fr/uploads/tx_gsavis/20-1415.pdf\">https://www.arcep.fr/uploads/tx_gsavis/20-1415.pdf</a><br><br>Subject to city approval: <a href=\"https://www.bertrand-ringot.fr/gravelines-bientot-une-base-francaise-pour-les-satellites-du-geant-americain-spacex/\">https://www.bertrand-ringot.fr/gravelines-bientot-une-base-francaise-pour-les-satellites-du-geant-americain-spacex/</a><br><br>Guessed location: <a href=\"https://www.reddit.com/r/Starlink/comments/lym1sx/is_this_the_villenave_dornon_ground_station_in/gpzv2dz/\">https://www.reddit.com/r/Starlink/comments/lym1sx/is_this_the_villenave_dornon_ground_station_in/gpzv2dz/</a>",
+    "lat": 50.9896317,
+    "lng": 2.1578998,
+    "cc": "FR"
+    },
+    {
+    "town": "Goonhilly Earth Station",
+    "desc": "Date issued: 01/04/2021<br>License holder: Goonhilly Earth Station Limited<br><br><a href=\"https://www.whatdotheyknow.com/request/737257/response/1763743/attach/9/Non%20Geostationary%20satellite%20earth%20stations.pdf?cookie_passthrough=1\">https://www.whatdotheyknow.com/request/737257/response/1763743/attach/9/Non%20Geostationary%20satellite%20earth%20stations.pdf?cookie_passthrough=1</a><br><a href=\"https://www.ofcom.org.uk/__data/assets/pdf_file/0030/212997/starlink-internet-services-limited_redacted.pdf\">https://www.ofcom.org.uk/__data/assets/pdf_file/0030/212997/starlink-internet-services-limited_redacted.pdf</a>",
+    "lat": 50.0495296,
+    "lng": -5.1792983,
+    "cc": "UK"
+    },
+    {
+    "town": "Chalfont Grove ",
+    "desc": "Date issued: 01/02/2021<br>License holder: Arqiva Limited<br><br><a href=\"https://www.whatdotheyknow.com/request/737257/response/1763743/attach/9/Non%20Geostationary%20satellite%20earth%20stations.pdf?cookie_passthrough=1\">https://www.whatdotheyknow.com/request/737257/response/1763743/attach/9/Non%20Geostationary%20satellite%20earth%20stations.pdf?cookie_passthrough=1</a><br><a href=\"https://www.ofcom.org.uk/__data/assets/pdf_file/0030/212997/starlink-internet-services-limited_redacted.pdf\">https://www.ofcom.org.uk/__data/assets/pdf_file/0030/212997/starlink-internet-services-limited_redacted.pdf</a>",
+    "lat": 51.6145957,
+    "lng": -0.5744152,
+    "cc": "UK"
+    },
+    {
+    "town": "Usingen",
+    "desc": "No gateway regulatory filings are available for public inspection in Germany. The station was found by a fan.<br><a href=\"https://www.reddit.com/r/Starlink/comments/msx6n0/german_ground_station_found/\">https://www.reddit.com/r/Starlink/comments/msx6n0/german_ground_station_found/</a>",
+    "lat": 50.329917,
+    "lng": 8.470778,
+    "cc": "DE"
+    },
+    {
+    "town": "Aerzen",
+    "desc": "No gateway regulatory filings are available for public inspection in Germany. The station was found by a fan.<br><br><a href=\"https://www.reddit.com/r/Starlink/comments/mx2b55/confirmation_for_ground_station_in_aerzengross/\">https://www.reddit.com/r/Starlink/comments/mx2b55/confirmation_for_ground_station_in_aerzengross/</a>",
+    "lat": 52.060991,
+    "lng": 9.328222,
+    "cc": "DE"
+    },
+    {
+    "town": "Isle of Man",
+    "desc": "Licensee: STARLINK INTERNET SERVICES UK LIMITED<br>License number: 1249304/1<br>Date issued: 2021-04-14<br>No of transmitters: 1<br>Status: Live<br><br><a href=\"https://www.ofcom.org.uk/spectrum/information/spectrum-information-system-sis/spectrum-information-portal\">https://www.ofcom.org.uk/spectrum/information/spectrum-information-system-sis/spectrum-information-portal</a>",
+    "lat": 54.1390380555556,
+    "lng": -4.49721111111111,
+    "cc": "UK"
+    },
+    {
+    "town": "Elfordstown",
+    "desc": "<a href=\"https://www.irishexaminer.com/news/munster/arid-40298921.html\">https://www.irishexaminer.com/news/munster/arid-40298921.html</a>",
+    "lat": 51.953111,
+    "lng": -8.174333,
+    "cc": "IE"
+    },
+    {
+    "town": "Punta Arenas",
+    "desc": "<a href=\"http://legales.elmostrador.cl/c_avisos/imagenes/EXTRACTO_02122020.pdf\">http://legales.elmostrador.cl/c_avisos/imagenes/EXTRACTO_02122020.pdf</a>",
+    "lat": -52.9381,
+    "lng": -70.8572222222222,
+    "cc": "CL"
+    },
+    {
+    "town": "Pudahuel",
+    "desc": "<a href=\"http://legales.elmostrador.cl/c_avisos/imagenes/EXTRACTO_02122020.pdf\">http://legales.elmostrador.cl/c_avisos/imagenes/EXTRACTO_02122020.pdf</a>",
+    "lat": -33.3927027777778,
+    "lng": -70.8831194444444,
+    "cc": "CL"
+    },
+    {
+    "town": "Caldera",
+    "desc": "<a href=\"http://legales.elmostrador.cl/c_avisos/imagenes/EXTRACTO_02122020.pdf\">http://legales.elmostrador.cl/c_avisos/imagenes/EXTRACTO_02122020.pdf</a>",
+    "lat": -27.0197,
+    "lng": -70.7878,
+    "cc": "CL"
+    },
+    {
+    "town": "Coquimbo",
+    "desc": "<a href=\"http://legales.elmostrador.cl/c_avisos/imagenes/EXTRACTO_02122020.pdf\">http://legales.elmostrador.cl/c_avisos/imagenes/EXTRACTO_02122020.pdf</a>",
+    "lat": -29.9994,
+    "lng": -71.2586,
+    "cc": "CL"
+    },
+    {
+    "town": "Talca",
+    "desc": "<a href=\"http://legales.elmostrador.cl/c_avisos/imagenes/EXTRACTO_02122020.pdf\">http://legales.elmostrador.cl/c_avisos/imagenes/EXTRACTO_02122020.pdf</a>",
+    "lat": -35.556,
+    "lng": -71.3568,
+    "cc": "CL"
+    },
+    {
+    "town": "Puerto Saavedra",
+    "desc": "<a href=\"http://legales.elmostrador.cl/c_avisos/imagenes/EXTRACTO_02122020.pdf\">http://legales.elmostrador.cl/c_avisos/imagenes/EXTRACTO_02122020.pdf</a>",
+    "lat": -38.8148,
+    "lng": -73.3973,
+    "cc": "CL"
+    },
+    {
+    "town": "Puerto Montt",
+    "desc": "At SpaceX Data Center 1<br><br><a href=\"http://legales.elmostrador.cl/c_avisos/imagenes/EXTRACTO_02122020.pdf\">http://legales.elmostrador.cl/c_avisos/imagenes/EXTRACTO_02122020.pdf</a>",
+    "lat": -41.4866,
+    "lng": -73.022,
+    "cc": "CL"
+    },
+    {
+    "cc": "CA",
+    "town": "Sambro Creek",
+    "desc": "Pennant Point Data Center",
+    "lat": 44.46549,
+    "lng": -63.61342
+    },
+    {
+    "cc": "CA",
+    "town": "La Baei QC",
+    "desc": "3952 Rte du Petit-Parc",
+    "lat": 48.30289,
+    "lng": -70.91604
+    },
+    {
+    "cc": "AU",
+    "town": "Canyonleigh",
+    "desc": "<a href=\"https://web.acma.gov.au/rrl/site_search.site_lookup?pSITE_ID=10026575\">acma.gov.au link</a>",
+    "lat": -34.589043,
+    "lng": 150.18839
+    },
+    {
+    "cc": "AU",
+    "town": "Tea Gardens",
+    "desc": "<a href=\"https://web.acma.gov.au/rrl/site_search.site_lookup?pSITE_ID=10026574\">acma.gov.au link</a>",
+    "lat": -32.593193,
+    "lng": 152.1042
+    },
+    {
+    "cc": "AU",
+    "town": "Koonwarra",
+    "desc": "<a href=\"https://web.acma.gov.au/rrl//site_search.site_lookup?pSITE_ID=10026280\">acma.gov.au link</a>",
+    "lat": -38.51812,
+    "lng": 145.95145
+    },
+    {
+    "cc": "PL",
+    "town": "Wola Krobowska",
+    "desc": "See <a href=\"https://bip.uke.gov.pl/download/gfx/bip/pl/defaultaktualnosci/140/16/2/wykaz_decyzji_satelitarnych_04_10_2021.xlsx\">gov.pl XLS file</a>. Descision DC.WSZ.5101.24945.2021.3",
+    "lat": 51.864222,
+    "lng": 20.921083
+    },
+    {
+    "cc": "US",
+    "town": "Frederick MD",
+    "desc": "See <a href=\"https://fcc.report/IBFS/SES-STA-20211028-01758\">FCC filing</a>",
+    "lat": 39.39697,
+    "lng": -77.43664,
+    "d": "2021-10-27"
+    },
+    {
+    "cc": "US",
+    "town": "Molokai HI",
+    "desc": "See <a href=\"https://fcc.report/IBFS/SES-STA-INTR2021-03707/13330423\">FCC filing</a>",
+    "lat": 21.10933,
+    "lng": -157.06394
+    }
+    ]
+    }
