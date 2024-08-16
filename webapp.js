@@ -43,7 +43,7 @@ var groundDisplayed = 0;
                     data = xhr.responseText.split('\n')
                     var entries = data.length / 3;
                     console.log('Entries:', entries, 'Lines:', data.length)
-                    for (var i = 0; i < data.length; i += 3) { //data.length
+                    for (var i = 0; i < data.length; i += 3) {
                         satDisplayed++;
                         let name = data[i].trim();
                         let tle1 = data[i + 1];
@@ -52,7 +52,6 @@ var groundDisplayed = 0;
                         let lighting = false;
                         globe.GlobeSettings.Constellation.AddSatellite(name, 0, tle1, tle2, liveupdate, lighting)
                     }
-                    // runGlobeAnimation();
                     loadBasestations();
                 }
             }
@@ -73,11 +72,8 @@ var groundDisplayed = 0;
                         globe.GlobeSettings.Constellation.AddBasestation(data.basestations[i].lat, data.basestations[i].lng, data.basestations[i].town, data.basestations[i].cc, data.basestations[i].desc, i, data.basestations[i].town, true)
                     }
                     console.log('Displaying', groundDisplayed, 'basestations.')
-                    // globe.basestationmodels = globe.Constellation.BasestationModels;
-
 
                     runGlobeAnimation();
-                    // globe.animate();
                 }
             }
         };
