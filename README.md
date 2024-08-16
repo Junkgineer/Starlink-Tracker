@@ -1,4 +1,4 @@
-# Starlink-Tracker
+# starlink-tracker
 A visualization of SpaceX's Starlink satellites and basestations.
 
 ![Tracker Home](https://github.com/Junkgineer/starlink-tracker/blob/main/images/tracker-home.png "Screenshot")
