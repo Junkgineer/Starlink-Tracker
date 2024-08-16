@@ -1,8 +1,11 @@
-# Starlink Satellite Tracker Visualization
-This app is a basic satellite tracker written in pure JS. It has enhanced visuals using Google's [WebGL Globe](https://experiments.withgoogle.com/chrome/globe) for the earth, and [THREE.js](https://threejs.org/) for nearly all other rendered visuals.
-Satellite locations are calculated from actual TLE data using [Satellite.js](https://github.com/shashwatak/satellite-js). A live version of this application can be seen [here](https://junkgineering.com/satellite).
+# Starlink-Tracker
+A visualization of SpaceX's Starlink satellites and basestations.
 
 ![Tracker Home](https://github.com/Junkgineer/starlink-tracker/blob/main/images/tracker-home.png "Screenshot")
+
+## Overview
+This app is a basic satellite tracker written in pure JS. It has enhanced visuals using Google's [WebGL Globe](https://experiments.withgoogle.com/chrome/globe) for the earth, and [THREE.js](https://threejs.org/) for nearly all other rendered visuals.
+Satellite locations are calculated from actual TLE data using [Satellite.js](https://github.com/shashwatak/satellite-js). A live version of this application can be seen [here](https://junkgineering.com/satellite).
 
 ## Installation
 1. Clone the repo.
